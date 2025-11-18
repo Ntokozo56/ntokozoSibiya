@@ -7,18 +7,16 @@ Currently pursuing my studies while building real-world projects that combine **
 
 ---
 
-## 🚀 About Me
-- 🔧 I enjoy working with **Arduino, C++, Java, and Python**
-- 🌐 Learning **web development** and **IoT systems**
-- ⚙️ Currently exploring **PID controllers** and **Smart IoT Projects**
-- 📚 Student at **CPUT**
+## About Me
+- I enjoy working with **Arduino, C++, C, and Java**
+- Student at **CPUT**
 
 ---
 
 ## 🧠 Skills
 | Category            | Tools & Languages                    |
 |---------------------|--------------------------------------|
-| **Programming**     | C++, Java, Python                    |               |
+| **Programming**     | C++, Java, C                         |               |
 | **Embedded Systems**| Arduino, Sensors, Actuators          |
 | **Networking**      | Cisco Packet Tracer, IPv4/IPv6, Static Routing |
 | **Tools**           | Netbeans, Code Blocks, Packet Tracer, Git, GitHub, VS Code, MATLAB/Simulink|
