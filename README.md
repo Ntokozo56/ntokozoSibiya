@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ntokozo Sibiya
+# 👋 Hi, I'm Ntokozo Eugine Sibiya
 
-Engineering Student | Tech Enthusiast
+Computer Engineering Student
 
-I'm passionate about **embedded systems, control systems (PID), networking, and full-stack development**.  
+I'm passionate about **embedded systems, control systems PID, networking, and Software development**.  
 Currently pursuing my studies while building real-world projects that combine **hardware and software**.
 
 ---
